@@ -12,4 +12,7 @@ the original code gpt-2 code is written in tensorflow and we want to use pytorch
 
 so to load these weights we can use huggingface transformers [openai-community/gpt2](https://huggingface.co/openai-community/gpt2) implementation.
 
+but we need to write our own GPT2 class from scratch so that we understand the details.
+
+
 
